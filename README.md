@@ -90,16 +90,19 @@ class Lokesh:
 
 ---
 
-## 📊 GitHub Stats
+## 💡 What I Bring to the Table
 
 <div align="center">
-  <a href="https://github.com/lokeshvedhagiri">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lokeshvedhagiri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/lokeshvedhagiri">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshvedhagiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+![Backend](https://img.shields.io/badge/✅%20REST%20API%20Design-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Deployed](https://img.shields.io/badge/✅%20Production%20Deployed-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Dockerized](https://img.shields.io/badge/✅%20Dockerized%20Apps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ETL](https://img.shields.io/badge/✅%20ETL%20Pipelines-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AI](https://img.shields.io/badge/✅%20LLM%20%2F%20AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Linux](https://img.shields.io/badge/✅%20Linux%20%2F%20Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/✅%20PostgreSQL%20Schemas-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CICD](https://img.shields.io/badge/✅%20CI%2FCD%20via%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
@@ -120,10 +123,15 @@ class Lokesh:
 
 ---
 
-## 🏆 Trophy Wall
+## 🎯 Focus Areas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lokeshvedhagiri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+
+| 🔧 Backend | 🗄️ Data | 🤖 AI/ML | ☁️ DevOps |
+|:----------:|:-------:|:--------:|:---------:|
+| Django · DRF · FastAPI | PostgreSQL · ETL · EDA | LangChain · Whisper · VAD | Docker · Render · CI/CD |
+| REST API Design | Schema Design · SQL | LLM Integration · RAG | Linux · Git · Gunicorn |
+
 </div>
 
 ---
