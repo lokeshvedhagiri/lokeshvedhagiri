@@ -7,7 +7,7 @@
   &nbsp;
   <a href="mailto:lokeshvedhagiri19@gmail.com"><img src="https://img.shields.io/badge/Gmail-lokeshvedhagiri19-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/lokesh"><img src="https://img.shields.io/badge/LinkedIn-lokesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/iokesh"><img src="https://img.shields.io/badge/LinkedIn-iokesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
 </div>
